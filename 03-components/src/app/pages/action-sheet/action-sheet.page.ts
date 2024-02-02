@@ -5,11 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './action-sheet.page.html',
   styleUrls: ['./action-sheet.page.scss'],
 })
-export class ActionSheetPage implements OnInit {
+export class ActionSheetPage {
 
   constructor() { }
-
-  ngOnInit() {
-  }
-
 }
