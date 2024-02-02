@@ -23,6 +23,11 @@ export class HomePage  {
       icon: 'logo-apple-appstore',
       name: 'Alert',
       redirectTo: '/alert'
+    },
+    {
+      icon: 'grid-outline',
+      name: 'Grid',
+      redirectTo: '/grid'
     }
   ];
 
