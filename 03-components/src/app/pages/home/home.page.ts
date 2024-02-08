@@ -28,6 +28,11 @@ export class HomePage  {
       icon: 'grid-outline',
       name: 'Grid',
       redirectTo: '/grid'
+    },
+    {
+      icon: 'hammer-outline',
+      name: 'Input Forms',
+      redirectTo: '/input'
     }
   ];
 

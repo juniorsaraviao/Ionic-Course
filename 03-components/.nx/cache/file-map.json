@@ -102,7 +102,7 @@
       },
       {
         "file": "src/app/app-routing.module.ts",
-        "hash": "7092203362848417435"
+        "hash": "5258755376970062605"
       },
       {
         "file": "src/app/app.component.html",
@@ -125,28 +125,104 @@
         "hash": "5073765293049625490"
       },
       {
-        "file": "src/app/home/home-routing.module.ts",
-        "hash": "15640276891962985461"
+        "file": "src/app/components/components.module.ts",
+        "hash": "6824913358810792580"
       },
       {
-        "file": "src/app/home/home.module.ts",
-        "hash": "11132792541070780270"
+        "file": "src/app/components/header/header.component.html",
+        "hash": "16470242898105634788"
       },
       {
-        "file": "src/app/home/home.page.html",
-        "hash": "3668328913015384273"
+        "file": "src/app/components/header/header.component.scss",
+        "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/home/home.page.scss",
-        "hash": "14250411118003398491"
+        "file": "src/app/components/header/header.component.spec.ts",
+        "hash": "15942973713125930543"
       },
       {
-        "file": "src/app/home/home.page.spec.ts",
-        "hash": "17001972042763736139"
+        "file": "src/app/components/header/header.component.ts",
+        "hash": "7988102893124961223"
       },
       {
-        "file": "src/app/home/home.page.ts",
-        "hash": "1571215977137710084"
+        "file": "src/app/pages/action-sheet/action-sheet-routing.module.ts",
+        "hash": "883983486580824129"
+      },
+      {
+        "file": "src/app/pages/action-sheet/action-sheet.module.ts",
+        "hash": "6353986912093257503"
+      },
+      {
+        "file": "src/app/pages/action-sheet/action-sheet.page.html",
+        "hash": "12742377025001054779"
+      },
+      {
+        "file": "src/app/pages/action-sheet/action-sheet.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/pages/action-sheet/action-sheet.page.ts",
+        "hash": "4570911125445630637"
+      },
+      {
+        "file": "src/app/pages/alert/alert-routing.module.ts",
+        "hash": "14424554412657250722"
+      },
+      {
+        "file": "src/app/pages/alert/alert.module.ts",
+        "hash": "14377814261638808665"
+      },
+      {
+        "file": "src/app/pages/alert/alert.page.html",
+        "hash": "15900263571326921648"
+      },
+      {
+        "file": "src/app/pages/alert/alert.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/pages/alert/alert.page.ts",
+        "hash": "14902995484106646101"
+      },
+      {
+        "file": "src/app/pages/grid/grid-routing.module.ts",
+        "hash": "10710669633260140726"
+      },
+      {
+        "file": "src/app/pages/grid/grid.module.ts",
+        "hash": "8310387862895063296"
+      },
+      {
+        "file": "src/app/pages/grid/grid.page.html",
+        "hash": "8372474607592931496"
+      },
+      {
+        "file": "src/app/pages/grid/grid.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/pages/grid/grid.page.ts",
+        "hash": "2666742555783018624"
+      },
+      {
+        "file": "src/app/pages/home/home-routing.module.ts",
+        "hash": "10197262553865492585"
+      },
+      {
+        "file": "src/app/pages/home/home.module.ts",
+        "hash": "12024307335170903850"
+      },
+      {
+        "file": "src/app/pages/home/home.page.html",
+        "hash": "13651824884845219686"
+      },
+      {
+        "file": "src/app/pages/home/home.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/pages/home/home.page.ts",
+        "hash": "9994176274032867593"
       },
       {
         "file": "src/assets/icon/favicon.png",
@@ -155,6 +231,10 @@
       {
         "file": "src/assets/shapes.svg",
         "hash": "4708889011185296100"
+      },
+      {
+        "file": "src/assets/stan-lee.jpg",
+        "hash": "16467283769052866538"
       },
       {
         "file": "src/environments/environment.prod.ts",
