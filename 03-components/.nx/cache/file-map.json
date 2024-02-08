@@ -102,7 +102,7 @@
       },
       {
         "file": "src/app/app-routing.module.ts",
-        "hash": "5258755376970062605"
+        "hash": "13813547144577158652"
       },
       {
         "file": "src/app/app.component.html",
@@ -222,7 +222,27 @@
       },
       {
         "file": "src/app/pages/home/home.page.ts",
-        "hash": "9994176274032867593"
+        "hash": "2989181972876175154"
+      },
+      {
+        "file": "src/app/pages/input/input-routing.module.ts",
+        "hash": "772859838515451573"
+      },
+      {
+        "file": "src/app/pages/input/input.module.ts",
+        "hash": "8942311495356890134"
+      },
+      {
+        "file": "src/app/pages/input/input.page.html",
+        "hash": "6736874702016754347"
+      },
+      {
+        "file": "src/app/pages/input/input.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/pages/input/input.page.ts",
+        "hash": "2763281438563653853"
       },
       {
         "file": "src/assets/icon/favicon.png",
